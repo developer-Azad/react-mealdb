@@ -1,0 +1,14 @@
+.meal-container{
+    background-color: antiquewhite;
+    color: blue;
+    border: 3px solid salmon;
+    border-radius: 10px;
+    text-align: center;
+   
+
+}
+.meal-container img{
+    width: 300px;
+    margin-top: 10px;
+    border-radius: 100%;
+}

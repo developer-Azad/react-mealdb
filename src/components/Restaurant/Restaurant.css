@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+}
+
+.search-box{
+    padding: 10px;
+    margin: 20px;
+}
+.meals-container{
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    grid-gap: 10px;
+    margin: 10px;
+}
